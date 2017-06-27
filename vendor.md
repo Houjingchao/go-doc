@@ -1,6 +1,7 @@
 # Vendor Tool for go
 ## 下载vendor
 `go get -u github.com/kardianos/govendor`
+
 复制dependencies  `govendor add/update`
 ### 项目必须在`$GOPATH/src`
 
